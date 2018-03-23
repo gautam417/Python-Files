@@ -1,0 +1,135 @@
+{
+   "A": [
+      "Albania",
+      "Andorra",
+      "Argentina",
+      "Armenia",
+      "Australia",
+      "Austria",
+      "Azerbaijan"
+   ],
+   "B": [
+      "Belgium",
+      "Bermuda",
+      "Bosnia and Herzegovina",
+      "Belarus",
+      "Bolivia",
+      "Brazil",
+      "Bulgaria"
+   ],
+   "C": [
+      "Canada",
+      "Chile",
+      "Colombia",
+      "Croatia",
+      "Cyprus",
+      "Czech Republic",
+      "Chinese Taipei"
+   ],
+   "P": [
+      "People's Republic of China",
+      "Pakistan",
+      "Philippines",
+      "Poland",
+      "Portugal",
+      "Puerto Rico"
+   ],
+   "K": [
+      "Korea",
+      "Kazakhstan",
+      "Kenya",
+      "Kyrgyzstan",
+      "Kosovo"
+   ],
+   "D": [
+      "Denmark",
+      "Democratic People's Republic of Korea",
+      "Democratic Republic of Timor-Leste"
+   ],
+   "E": [
+      "Ecuador",
+      "Eritrea",
+      "Estonia"
+   ],
+   "S": [
+      "Spain",
+      "South Africa",
+      "Singapore",
+      "Slovenia",
+      "San Marino",
+      "Serbia",
+      "Switzerland",
+      "Slovakia",
+      "Sweden"
+   ],
+   "F": [
+      "Finland",
+      "France"
+   ],
+   "G": [
+      "Great Britain",
+      "Georgia",
+      "Germany",
+      "Ghana",
+      "Greece"
+   ],
+   "H": [
+      "Hong Kong, China",
+      "Hungary"
+   ],
+   "I": [
+      "India",
+      "Islamic Republic of Iran",
+      "Ireland",
+      "Iceland",
+      "Israel",
+      "Italy"
+   ],
+   "J": [
+      "Jamaica",
+      "Japan"
+   ],
+   "R": [
+      "Republic of Korea",
+      "Republic of Moldova",
+      "Romania"
+   ],
+   "L": [
+      "Latvia",
+      "Lebanon",
+      "Liechtenstein",
+      "Lithuania",
+      "Luxembourg"
+   ],
+   "M": [
+      "Madagascar",
+      "Morocco",
+      "Malaysia",
+      "Mexico",
+      "Mongolia",
+      "Malta",
+      "Montenegro",
+      "Monaco"
+   ],
+   "T": [
+      "The Former Yugoslav Republic of Macedonia",
+      "Tonga",
+      "Thailand",
+      "Togo",
+      "Turkey"
+   ],
+   "N": [
+      "Netherlands",
+      "Nigeria",
+      "Norway",
+      "New Zealand"
+   ],
+   "O": [
+      "Olympic Athlete from Russia"
+   ],
+   "U": [
+      "Ukraine",
+      "United States of America",
+      "Uzbekistan"
+   ]
+}
