@@ -1,5 +1,3 @@
-# Fast-Food-Restaurants-Near-De-Anza
-
 The purpose of this application is to show the implementation of Yelp's Fusion API and to see if fast
 food places are worth visiting or not based on the data we receive from the API.
 We are specifically working with the businesses search endpoint that Yelp has provided us access to.
